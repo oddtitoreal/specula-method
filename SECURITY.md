@@ -2,7 +2,7 @@
 
 ## Reporting Vulnerabilities
 
-If you discover a security vulnerability in any documentation, templates, or guidance that could lead to harm, please report it privately to [security@specula.method].
+If you discover a security vulnerability in any documentation, templates, or guidance that could lead to harm, please report it privately to [tito@marcolivi.it].
 
 **Do not** open public issues for security concerns.
 
