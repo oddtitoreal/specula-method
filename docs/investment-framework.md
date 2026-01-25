@@ -51,14 +51,14 @@ Calibrated for mid-sized organizations or corporate functions piloting the metho
 **Complete Process**
 
 ### Scope
-All six phases:
+All six phases (including 1.5):
 1. Scenario Generation
-2. Competitive Futures Mapping
-3. Brand Archeology
-4. Future Prototyping & Ethical Gate
-5. Narrative Synthesis
-6. Co-creation & Community Governance
-7. Activation roadmap (setup for Guardian)
+1.5. Competitive Futures Mapping
+2. Brand Archeology
+3. Future Prototyping & Ethical Gate
+4. Narrative Synthesis
+5. Co-creation & Community Governance
+6. Activation & Guardian setup (roadmap)
 
 ### Duration
 - 2-3 months effective work

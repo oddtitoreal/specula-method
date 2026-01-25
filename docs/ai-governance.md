@@ -175,7 +175,7 @@ AI doesn't "understand" declared values except through constraints we design int
 **Temperature**: Low-medium (0.4-0.6) for faithful synthesis  
 **Review**: Community input summarized but not filtered by AI alone
 
-### Phase 6: Guardian
+### Phase 6: Activation & Guardian
 **AI Role**: Signal monitoring, drift detection  
 **Governance**: Humans interpret signals and decide on response  
 **Temperature**: Low (0.3-0.5) for accurate monitoring  

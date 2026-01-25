@@ -5,9 +5,6 @@ This license applies to:
 - Code examples (if any)
 - Scripts and utilities
 
-Templates and operational canvases are licensed under CC BY-SA 4.0; see
-`LICENSE-CC-BY-SA.md`. The MIT license text is mirrored in `LICENSE-MIT.md`.
-
 ---
 
 Copyright (c) 2026 Specula Method Contributors

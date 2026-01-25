@@ -1,4 +1,4 @@
-# Specula Framework
+# Specula Method
 
 ## Strategic Foresight Branding
 

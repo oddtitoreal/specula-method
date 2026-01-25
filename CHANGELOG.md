@@ -12,6 +12,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Operational templates for all six phases
 - Case study: La Saponaria Care Intelligence
 - Contributing guidelines
+- Added CC BY-SA and MIT license files referenced by README.
+
+### Changed
+- Clarified Full Journey phase list to match six-phase structure.
+- Standardized repository name in README title.
+- Aligned AI governance phase label with Activation & Guardian naming.
 
 ## [1.0.0] - 2026-01-25
 
