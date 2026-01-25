@@ -89,12 +89,12 @@ This balance between transparency and intellectual property allows Specula to po
 ### For Practitioners
 1. Review the [Ethical Framework](./docs/ethical-framework.md)
 2. Explore the [Templates](./templates/) directory
-3. Read [AI Governance Guidelines](./docs/ai-governance.md)
-4. Join discussions to share learnings and challenges
+3. Read [AI Governance Guidelines](./docs/ethical-framework.md#ai-governance-integration)
+4. Join [Discussions](https://github.com/oddtitoreal/specula-method/discussions) to share learnings and challenges
 
 ### For Organizations
-1. Start with the [Self-Assessment Tool](./tools/self-assessment.md)
-2. Review [Case Studies](./case-studies/) (anonymized)
+1. Review the [Method Overview](./docs/method-overview.md)
+2. Explore [Case Studies](./case-studies/) (anonymized)
 3. Understand the [Investment Framework](./docs/investment-framework.md)
 4. Contact us for an Audit or Full Journey engagement
 
@@ -139,10 +139,10 @@ Proprietary elements (AI configurations, scenario libraries, operational protoco
 
 ## Contact & Engagement
 
-- **Website**: [specula.method]
-- **Discussions**: [GitHub Discussions](https://github.com/oddtitoreal/specula-framework/discussions)
-- **Email**: hello@specula.method
+- **Marco Livi**: https://www.linkedin.com/in/marcolivi/
+- **Discussions**: [GitHub Discussions](https://github.com/oddtitoreal/specula-method/discussions)
+- **Email**: tito@marcolivi.it
 
 ---
 
-*Version 2.3 — Last updated: December 2025*
+*Version 1.0 — Last updated: January 2026*
