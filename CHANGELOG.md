@@ -13,6 +13,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Case study: La Saponaria Care Intelligence
 - Contributing guidelines
 - Added CC BY-SA and MIT license files referenced by README.
+- Specula Method Agent protocol (EN/IT) for facilitated sessions.
+- Method Evolution Log defining the progressive evolution of the method.
 
 ### Changed
 - Clarified Full Journey phase list to match six-phase structure.

@@ -63,6 +63,8 @@ Translating work into concrete roadmap: projects, prototypes, releases, experime
 - **Templates**: Registry of Refusals, Speculative Identity Canvas, Impact Measurement Framework
 - **AI Governance Principles**: Responsible use guidelines, bias audit protocols, human-in-the-loop requirements
 - **Method Documentation**: Phases, principles, application guidelines
+- **Method Agent Protocol**: How to configure a Specula Method Agent for facilitated sessions
+- **Method Evolution Log**: Progressive definition and change history of the method
 
 ### Proprietary
 - AI system configurations and prompt libraries
@@ -90,7 +92,10 @@ This balance between transparency and intellectual property allows Specula to po
 1. Review the [Ethical Framework](./docs/ethical-framework.md)
 2. Explore the [Templates](./templates/) directory
 3. Read [AI Governance Guidelines](./docs/ethical-framework.md#ai-governance-integration)
-4. Join [Discussions](https://github.com/oddtitoreal/specula-method/discussions) to share learnings and challenges
+4. Configure the [Specula Method Agent](./docs/specula-method-agent.md) for guided sessions (EN)
+5. Configura il [Specula Method Agent](./docs/specula-method-agent.it.md) per sessioni guidate (IT)
+6. Review the [Method Evolution Log](./docs/method-evolution.md)
+7. Join [Discussions](https://github.com/oddtitoreal/specula-method/discussions) to share learnings and challenges
 
 ### For Organizations
 1. Review the [Method Overview](./docs/method-overview.md)

@@ -154,11 +154,18 @@ Guardian isn't maintenance—it's a living relationship where the brand's identi
 
 ---
 
+## Specula Method Agent
+
+For facilitated sessions, Specula provides a dedicated agent protocol that configures an LLM to guide teams through the method: one question at a time, explicit phase tracking, anti-fluff input gathering, and reusable outputs (including a session JSON state). See [Specula Method Agent](./specula-method-agent.md).
+
+---
+
 ## For Different Audiences
 
 ### For Practitioners
 See [Templates Directory](../templates/) for operational tools.  
 See [Ethical Framework](./ethical-framework.md) for detailed governance.
+See [Method Evolution Log](./method-evolution.md) for progressive definition.
 
 ### For Organizations
 See [Investment Framework](./investment-framework.md) for engagement models.  
