@@ -163,6 +163,7 @@ For facilitated sessions, Specula provides a dedicated agent protocol that confi
 ## For Different Audiences
 
 ### For Practitioners
+Start from the [Documentation Index](./00_index.md) for the canonical map.  
 See [Templates Directory](../templates/) for operational tools.  
 See [Ethical Framework](./ethical-framework.md) for detailed governance.
 See [Method Evolution Log](./method-evolution.md) for progressive definition.
