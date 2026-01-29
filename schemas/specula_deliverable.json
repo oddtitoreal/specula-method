@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "method": "SPECULA",
+    "version": "0.1",
+    "language": "en-US"
+  },
+  "phase": {
+    "current": "SCENARIOS",
+    "step": 1
+  },
+  "output": {
+    "operational_summary": "",
+    "decisions_made": [],
+    "decisions_open": [],
+    "next_question": ""
+  },
+  "artifacts": {
+    "session_state": "specula_session_state.json"
+  },
+  "log": [
+    {
+      "ts": "",
+      "event": "DELIVERABLE",
+      "content": ""
+    }
+  ]
+}

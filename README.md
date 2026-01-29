@@ -66,6 +66,8 @@ Translating work into concrete roadmap: projects, prototypes, releases, experime
 - **Documentation Index**: Canonical map of all docs
 - **Method Agent Protocol**: How to configure a Specula Method Agent for facilitated sessions
 - **Method Evolution Log**: Progressive definition and change history of the method
+- **Conceptual Schemas**: Canonical JSON artifacts for sessions and deliverables
+- **Examples**: Sample sessions and deliverables
 
 ### Proprietary
 - AI system configurations and prompt libraries
@@ -94,10 +96,11 @@ This balance between transparency and intellectual property allows Specula to po
 2. Review the [Ethical Framework](./docs/ethical-framework.md)
 3. Explore the [Templates](./templates/) directory
 4. Read [AI Governance Guidelines](./docs/ethical-framework.md#ai-governance-integration)
-5. Configure the [Specula Method Agent](./docs/specula-method-agent.md) for guided sessions (EN)
-6. Configura il [Specula Method Agent](./docs/specula-method-agent.it.md) per sessioni guidate (IT)
+5. Configure the [Specula Method Agent](./agent/specula-method-agent.md) for guided sessions (EN)
+6. Configura il [Specula Method Agent](./agent/specula-method-agent.it.md) per sessioni guidate (IT)
 7. Review the [Method Evolution Log](./docs/method-evolution.md)
-8. Join [Discussions](https://github.com/oddtitoreal/specula-method/discussions) to share learnings and challenges
+8. Review [Examples](./examples/) for sample sessions and outputs
+9. Join [Discussions](https://github.com/oddtitoreal/specula-method/discussions) to share learnings and challenges
 
 ### For Organizations
 1. Review the [Method Overview](./docs/method-overview.md)
@@ -136,11 +139,19 @@ Brands are no longer just communication objects. They are actors participating i
 
 ## License
 
-The Ethical Framework and templates in this repository are released under [Creative Commons BY-SA 4.0](LICENSE-CC-BY-SA.md).
-
-Method documentation and guidelines are released under [MIT License](LICENSE-MIT.md).
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0). See [LICENSE.md](LICENSE.md).
 
 Proprietary elements (AI configurations, scenario libraries, operational protocols) remain under copyright.
+
+## Attribution
+
+If you use, adapt, or build upon the Specula Method or the Specula Method Agent,
+you must clearly attribute the work to:
+
+Marco Livi — Specula Method  
+https://github.com/oddtitoreal/specula-method
+
+Attribution must be visible in documentation, presentations, and public materials.
 
 ---
 

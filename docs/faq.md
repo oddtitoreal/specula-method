@@ -159,12 +159,12 @@ Yes! See [CONTRIBUTING.md](../CONTRIBUTING.md). We especially value:
 
 ### Can we use this commercially?
 
-The ethical framework and templates are CC BY-SA 4.0, meaning:
+The Specula Method materials in this repository are CC BY-SA 4.0, meaning:
 - You can use them commercially
 - You must attribute Specula Method
 - If you modify and distribute, use same license
 
-Method documentation is MIT licensed.
+See [LICENSE.md](../LICENSE.md) for details.
 
 **However**: Calling yourself a "Specula Practitioner" or offering "Specula Method services" requires certification (coming 2026).
 

@@ -12,14 +12,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Operational templates for all six phases
 - Case study: La Saponaria Care Intelligence
 - Contributing guidelines
-- Added CC BY-SA and MIT license files referenced by README.
+- Added CC BY-SA 4.0 license file and attribution requirements.
 - Specula Method Agent protocol (EN/IT) for facilitated sessions.
 - Method Evolution Log defining the progressive evolution of the method.
+- Agent runtime structure (`agent/`) and conceptual schemas (`schemas/`).
+- Added conceptual deliverable JSON template for session outputs.
+- Added agent quickstart and example sessions in `examples/`.
 
 ### Changed
 - Clarified Full Journey phase list to match six-phase structure.
 - Standardized repository name in README title.
 - Aligned AI governance phase label with Activation & Guardian naming.
+- Consolidated licensing under CC BY-SA 4.0 in `LICENSE.md`.
 
 ## [1.0.0] - 2026-01-25
 

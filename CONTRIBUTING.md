@@ -47,6 +47,12 @@ Thank you for your interest in contributing to the Specula Method! This reposito
 
 See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). We're building a community of practice grounded in respect, intellectual honesty, and commitment to responsible futures.
 
+## License of Contributions
+
+By contributing to this repository, you agree that your contributions
+will be licensed under the same CC BY-SA 4.0 license
+and will not remove attribution to the original author and method.
+
 ## Questions?
 
 Open an issue or reach out via [GitHub Discussions](https://github.com/oddtitoreal/specula-method/discussions).

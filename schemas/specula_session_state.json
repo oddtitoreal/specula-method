@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "method": "SPECULA",
+    "version": "0.1",
+    "language": "en-US"
+  },
+  "project": {
+    "brand": "",
+    "sector": "",
+    "geography": "",
+    "time_horizon": ""
+  },
+  "phase": {
+    "current": "SCENARIOS",
+    "step": 1,
+    "status": "IN_PROGRESS"
+  },
+  "inputs": {
+    "constraints": [],
+    "known_facts": [],
+    "assumptions": [],
+    "open_questions": []
+  },
+  "identity": {
+    "radical_values": [],
+    "persona": {
+      "traits": [],
+      "tone_of_voice": [],
+      "emotional_signature": []
+    },
+    "agency": {
+      "does": [],
+      "refuses": []
+    },
+    "preferable_futures": [],
+    "alternative_metrics": []
+  },
+  "scenarios": [],
+  "prototypes": [],
+  "narratives": [],
+  "community_plan": [],
+  "log": [
+    {
+      "ts": "",
+      "event": "QUESTION",
+      "content": ""
+    }
+  ]
+}
