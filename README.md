@@ -152,6 +152,7 @@ Marco Livi — Specula Method
 https://github.com/oddtitoreal/specula-method
 
 Attribution must be visible in documentation, presentations, and public materials.
+See [ATTRIBUTION.md](ATTRIBUTION.md) for full guidelines.
 
 ---
 
