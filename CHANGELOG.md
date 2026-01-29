@@ -19,6 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added conceptual deliverable JSON template for session outputs.
 - Added agent quickstart and example sessions in `examples/`.
 - Added `ATTRIBUTION.md` as the canonical attribution reference.
+- Added `examples/README.md` with format conventions.
 
 ### Changed
 - Clarified Full Journey phase list to match six-phase structure.
