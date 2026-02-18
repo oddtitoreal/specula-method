@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://specula.method/schemas/specula_runtime_artifact.schema.json",
+  "title": "Specula Runtime Artifact (Canonical Wrapper)",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["meta", "payload"],
+  "properties": {
+    "meta": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "artifact_id",
+        "phase",
+        "mode",
+        "generated_at",
+        "validated_by_human",
+        "related_artifacts"
+      ],
+      "properties": {
+        "artifact_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "phase": {
+          "type": "string",
+          "enum": ["0", "1", "1.5", "2", "3", "4", "5", "6"]
+        },
+        "mode": {
+          "type": "string",
+          "enum": [
+            "exploration",
+            "convergence",
+            "brand_archaeology",
+            "prototyping",
+            "ethical_gate",
+            "refusal_register",
+            "narrative_synthesis",
+            "community_cocreation",
+            "guardian",
+            "cognitive_sparring",
+            "sensemaking",
+            "slowdown",
+            "refusal"
+          ]
+        },
+        "generated_at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "validated_by_human": {
+          "type": "boolean"
+        },
+        "related_artifacts": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "payload": {
+      "type": "object"
+    }
+  }
+}

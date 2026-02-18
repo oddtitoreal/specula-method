@@ -66,7 +66,7 @@ Translating work into concrete roadmap: projects, prototypes, releases, experime
 - **Documentation Index**: Canonical map of all docs
 - **Method Agent Protocol**: How to configure a Specula Method Agent for facilitated sessions
 - **Method Evolution Log**: Progressive definition and change history of the method
-- **Conceptual Schemas**: Canonical JSON artifacts for sessions and deliverables
+- **Schema Profiles**: Conceptual JSON artifacts plus runtime-compatible JSON contracts
 - **Examples**: Sample sessions and deliverables
 
 ### Proprietary
@@ -98,9 +98,10 @@ This balance between transparency and intellectual property allows Specula to po
 4. Read [AI Governance Guidelines](./docs/ethical-framework.md#ai-governance-integration)
 5. Configure the [Specula Method Agent](./agent/specula-method-agent.md) for guided sessions (EN)
 6. Configura il [Specula Method Agent](./agent/specula-method-agent.it.md) per sessioni guidate (IT)
-7. Review the [Method Evolution Log](./docs/method-evolution.md)
-8. Review [Examples](./examples/) for sample sessions and outputs
-9. Join [Discussions](https://github.com/oddtitoreal/specula-method/discussions) to share learnings and challenges
+7. Review the [Runtime Alignment Guide](./docs/runtime-alignment.md)
+8. Review the [Method Evolution Log](./docs/method-evolution.md)
+9. Review [Examples](./examples/) for sample sessions and outputs
+10. Join [Discussions](https://github.com/oddtitoreal/specula-method/discussions) to share learnings and challenges
 
 ### For Organizations
 1. Review the [Method Overview](./docs/method-overview.md)

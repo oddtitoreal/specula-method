@@ -223,7 +223,7 @@ We keep proprietary: AI configurations, scenario libraries, operational protocol
 
 ### What's the relationship between Specula and the private framework repo?
 
-The private repo ([specula-framework](https://github.com/oddtitoreal/specula-framework)) contains complete operational documentation for client delivery: detailed schemas, AI prompts, governance specs, project templates.
+The private repo ([specula-framework](https://github.com/oddtitoreal/specula-framework)) contains complete operational documentation for client delivery: detailed schemas, AI prompts, governance specs, project templates, and executable runtime assets.
 
 This public repo (specula-method) contains the open ethical framework, templates, and method overview.
 

@@ -8,6 +8,7 @@ This directory contains short, canonical session excerpts showing the Specula Me
 
 ## Format conventions
 - Each example includes context, phase, single question, sample answer, and deliverable summary.
-- Include a minimal JSON deliverable excerpt consistent with `schemas/specula_deliverable.json`.
+- Include a minimal JSON deliverable excerpt consistent with either:
+  - `schemas/specula_deliverable.json` (conceptual profile)
+  - `schemas/specula_runtime_step.schema.json` (runtime-compatible profile)
 - Keep examples concise and focused on the interaction contract.
-

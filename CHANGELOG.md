@@ -20,12 +20,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added agent quickstart and example sessions in `examples/`.
 - Added `ATTRIBUTION.md` as the canonical attribution reference.
 - Added `examples/README.md` with format conventions.
+- Runtime-compatible schema profile:
+  - `schemas/specula_runtime_artifact.schema.json`
+  - `schemas/specula_runtime_step.schema.json`
+- `docs/runtime-alignment.md` documenting conceptual vs runtime-compatible contracts.
 
 ### Changed
 - Clarified Full Journey phase list to match six-phase structure.
 - Standardized repository name in README title.
 - Aligned AI governance phase label with Activation & Guardian naming.
 - Consolidated licensing under CC BY-SA 4.0 in `LICENSE.md`.
+- Updated agent protocols (EN/IT) to canonical phase sequence (`0, 1, 1.5, 2, 3, 4, 5, 6`).
+- Updated agent output contract to strict header (`MODE | PHASE`) and 6-line pre-question limit.
+- Updated `agent/README.md` quickstart to include profile selection and Phase 0 start.
+- Updated docs index to include runtime alignment guide and runtime schemas.
+- Updated session examples to runtime-compatible deliverable format.
+- Clarified method overview/FAQ wording for runtime-compatible integration with `specula-framework`.
 
 ## [1.0.0] - 2026-01-25
 

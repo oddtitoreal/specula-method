@@ -7,52 +7,53 @@
 - Time horizon: 2035
 
 ## Phase
-Scenario Generation — Step 2
+Competitive Futures Mapping (Phase 1.5) — Step 1
 
 ## Single question
-Which variable today scares or excites you most?
+Which competitor trajectory should we test first as a white-space benchmark?
 
 ## Sample answer
-The speed of EU regulation on AI-driven pricing.
+Let's test the marketplaces pushing AI-driven dynamic pricing first.
 
 ## Deliverable (summary)
-- Operational summary: Captured key uncertainty around regulation speed.
-- Decisions made: Key uncertainty = EU AI pricing regulation pace.
-- Open decisions: Second uncertainty for scenario axes; weak signals.
-- Next question: Which second uncertainty would you pair with it to build scenarios?
+- MODE | PHASE: `convergence | 1.5`
+- Operational summary: Selected a competitor trajectory for initial white-space mapping.
+- Decisions made: Benchmark trajectory = AI-driven dynamic pricing marketplaces.
+- Open decisions: Confidence threshold; first white-space hypothesis.
+- Next question: Which unoccupied territory would still be coherent with your radical values?
 
-## Deliverable JSON (example)
+## Deliverable JSON (runtime-compatible example)
 ```json
 {
-  "meta": {
-    "method": "SPECULA",
-    "version": "0.1",
-    "language": "en-US"
-  },
-  "phase": {
-    "current": "SCENARIOS",
-    "step": 2
-  },
-  "output": {
-    "operational_summary": "Captured key uncertainty around regulation speed.",
-    "decisions_made": [
-      "Key uncertainty: EU AI pricing regulation pace"
-    ],
-    "decisions_open": [
-      "Second uncertainty for scenario axes",
-      "Weak signals"
-    ],
-    "next_question": "Which second uncertainty would you pair with it to build scenarios?"
-  },
-  "artifacts": {
-    "session_state": "specula_session_state.json"
-  },
-  "log": [
-    {
-      "ts": "2026-01-29",
-      "event": "DELIVERABLE",
-      "content": "Phase 1 Step 2 deliverable generated."
+  "assistant_text": "MODE: convergence | PHASE: 1.5\nI mapped an initial competitive futures hypothesis.\nWhich unoccupied territory would still be coherent with your radical values?",
+  "artifact": {
+    "meta": {
+      "artifact_id": "artifact-example-02",
+      "phase": "1.5",
+      "mode": "convergence",
+      "generated_at": "2026-01-29T10:20:00Z",
+      "validated_by_human": false,
+      "related_artifacts": ["artifact-example-01"]
+    },
+    "payload": {
+      "competitive_map": [
+        {
+          "competitor": "Marketplace Alpha",
+          "future_trajectory": "AI-driven pricing and loyalty optimization",
+          "occupied_territory": "hyper-personalized pricing",
+          "ignored_territories": ["trust-first transparency mechanisms"],
+          "confidence_level": "medium"
+        }
+      ],
+      "white_spaces": [
+        {
+          "white_space_id": "ws-01",
+          "description": "Transparent circular pricing with explicit social impact trade-offs",
+          "strategic_risk": "medium",
+          "alignment_with_brand": "high"
+        }
+      ]
     }
-  ]
+  }
 }
 ```
