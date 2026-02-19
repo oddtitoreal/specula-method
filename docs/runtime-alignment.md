@@ -37,6 +37,8 @@ Canonical sequence used by runtime-compatible integrations:
 2. Maximum 6 lines before the question line
 3. Exactly one question per step
 4. Artifact uses canonical wrapper:
+5. `meta` includes explainability fields: `decision_rationale`, `evidence_refs`, `tradeoffs`, `rejected_alternatives`
+6. Phase advancement requires at least two human approvals from distinct validator roles
 
 ```json
 {
@@ -46,9 +48,12 @@ Canonical sequence used by runtime-compatible integrations:
     "mode": "...",
     "generated_at": "...",
     "validated_by_human": false,
-    "related_artifacts": []
+    "related_artifacts": [],
+    "decision_rationale": "...",
+    "evidence_refs": ["..."],
+    "tradeoffs": ["..."],
+    "rejected_alternatives": ["..."]
   },
   "payload": {}
 }
 ```
-

@@ -25,6 +25,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - `schemas/specula_runtime_step.schema.json`
 - `docs/runtime-alignment.md` documenting conceptual vs runtime-compatible contracts.
 - GitHub Actions CI workflow to validate schema JSON parsing and relative Markdown links.
+- Runtime schema explainability metadata fields in canonical wrapper:
+  - `meta.decision_rationale`
+  - `meta.evidence_refs`
+  - `meta.tradeoffs`
+  - `meta.rejected_alternatives`
 
 ### Changed
 - Clarified Full Journey phase list to match six-phase structure.
@@ -41,6 +46,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Bumped agent protocol label in EN/IT docs from `v0.2` to `v0.3` to reflect current contract constraints.
 - Added `v1.0.1` entry in Method Evolution Log to capture runtime-alignment patch scope.
 - Updated repository version metadata marker to February 2026 in `README.md`.
+- Clarified runtime advancement rule in agent/runtime docs: phase progression requires at least two human approvals from distinct validator roles.
 
 ## [1.0.0] - 2026-01-25
 

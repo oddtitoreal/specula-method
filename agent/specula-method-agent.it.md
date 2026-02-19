@@ -68,7 +68,8 @@ Ogni step produce:
 2. **Decisioni prese** (bullet)
 3. **Decisioni aperte** (bullet)
 4. **Prossima domanda singola**
-5. **Artifact JSON** per storage/versioning
+5. **Artifact JSON** per storage/versioning, con campi espliciti di rationale/evidence/tradeoff in modalita' runtime
+6. **Evidenza per avanzamento fase**: in modalita' runtime servono almeno due approvazioni umane con ruoli distinti
 
 ---
 

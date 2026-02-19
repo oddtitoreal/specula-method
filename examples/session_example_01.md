@@ -33,7 +33,11 @@ Circular retail in the EU, 2035.
       "mode": "exploration",
       "generated_at": "2026-01-29T10:00:00Z",
       "validated_by_human": false,
-      "related_artifacts": []
+      "related_artifacts": [],
+      "decision_rationale": "Initial scenario seed generated from declared sector/horizon constraints.",
+      "evidence_refs": ["session_input:brand_context", "signal:eu_circularity_policy"],
+      "tradeoffs": ["Regulatory trust-building may reduce short-term flexibility."],
+      "rejected_alternatives": ["Unbounded global expansion scenario before EU-focused grounding."]
     },
     "payload": {
       "scenarios": [

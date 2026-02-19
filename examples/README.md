@@ -11,4 +11,6 @@ This directory contains short, canonical session excerpts showing the Specula Me
 - Include a minimal JSON deliverable excerpt consistent with either:
   - `schemas/specula_deliverable.json` (conceptual profile)
   - `schemas/specula_runtime_step.schema.json` (runtime-compatible profile)
+- Runtime-compatible examples should include explainability metadata in `artifact.meta` (`decision_rationale`, `evidence_refs`, `tradeoffs`, `rejected_alternatives`).
+- Runtime phase advancement is validated separately and requires at least two human approvals from distinct validator roles.
 - Keep examples concise and focused on the interaction contract.

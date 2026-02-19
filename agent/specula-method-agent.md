@@ -68,7 +68,8 @@ Each step produces:
 2. **Decisions made** (bullets)
 3. **Open decisions** (bullets)
 4. **Next single question**
-5. **Artifact JSON** for storage/versioning
+5. **Artifact JSON** for storage/versioning, with explicit rationale/evidence/tradeoff fields in runtime mode
+6. **Phase advancement evidence**: in runtime mode, require at least two human approvals from distinct validator roles
 
 ---
 

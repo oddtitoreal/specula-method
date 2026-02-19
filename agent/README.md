@@ -26,10 +26,10 @@ A facilitation layer for the Specula Method. The agent guides teams through the 
 - Decisions made
 - Open decisions
 - Next single question
-- Artifact JSON (conceptual or runtime-compatible profile)
+- Artifact JSON (conceptual or runtime-compatible profile, with explainability metadata in runtime mode)
+- Advance phase only after two human approvals from distinct validator roles (runtime mode)
 
 ## Mode selection
 - Maieutic (default): when inputs are vague or shallow
 - Cognitive Sparring: when data is controversial or too convenient
 - Values Custodian: when choices conflict with radical values
-

@@ -33,7 +33,11 @@ Let's test the marketplaces pushing AI-driven dynamic pricing first.
       "mode": "convergence",
       "generated_at": "2026-01-29T10:20:00Z",
       "validated_by_human": false,
-      "related_artifacts": ["artifact-example-01"]
+      "related_artifacts": ["artifact-example-01"],
+      "decision_rationale": "Selected first competitive trajectory to anchor white-space exploration.",
+      "evidence_refs": ["session_input:competitor_focus", "signal:dynamic_pricing_adoption"],
+      "tradeoffs": ["Speed of market reaction vs transparency of price logic."],
+      "rejected_alternatives": ["Benchmarking only incumbents without AI-led challengers."]
     },
     "payload": {
       "competitive_map": [
