@@ -165,4 +165,4 @@ See [ATTRIBUTION.md](ATTRIBUTION.md) for full guidelines.
 
 ---
 
-*Version 1.0 — Last updated: January 2026*
+*Version 1.0 — Last updated: February 2026*

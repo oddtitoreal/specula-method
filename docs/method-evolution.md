@@ -14,6 +14,24 @@ This file tracks the evolution of the Specula Method and defines, step by step, 
 
 ## Versions
 
+### v1.0.1 (February 2026)
+**Definition**: Patch update of the open documentation profile, keeping the six-phase public structure and improving runtime alignment clarity.
+
+**Core updates**:
+- Runtime-compatible schema profile explicitly documented and linked.
+- Agent protocol constraints hardened (`MODE | PHASE`, canonical phase sequence with `0` and `1.5`).
+- Mapping intent clarified against the private v2.4.5.x evolution track without changing the public six-phase model.
+
+**What this enables**:
+- More consistent agent outputs across workshop and runtime contexts.
+- Lower integration ambiguity between open method assets and executable framework runtimes.
+
+**What this does not change**:
+- Public method release remains `v1.x`.
+- Six-phase public narrative and ethical structure remain unchanged.
+
+---
+
 ### v1.0 (January 2026)
 **Definition**: A six-phase strategic foresight branding method that uses scenarios to build living brand identities oriented to preferable futures, with a formal ethical gate and a long-term governance layer.
 
@@ -56,4 +74,3 @@ This file tracks the evolution of the Specula Method and defines, step by step, 
 - Any phase-level changes.
 - New artifacts or retired artifacts.
 - Updates to the Ethical Gate.
-

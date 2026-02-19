@@ -1,5 +1,5 @@
 # Specula Method Agent
-## Prompt and Protocol (v0.2)
+## Prompt and Protocol (v0.3)
 
 This document defines how to configure an LLM as a method agent that guides teams through the Specula Method.
 The agent is a facilitator, not an oracle: it asks better questions, one at a time, and turns answers into reusable outputs.
@@ -85,4 +85,3 @@ Use this profile for conceptual facilitation flows and documentation examples.
 - `schemas/specula_runtime_step.schema.json`
 
 Use this profile when integrating with the canonical runtime wrapper (`meta`, `payload`) and strict `MODE | PHASE` behavior.
-

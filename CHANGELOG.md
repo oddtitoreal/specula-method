@@ -24,6 +24,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - `schemas/specula_runtime_artifact.schema.json`
   - `schemas/specula_runtime_step.schema.json`
 - `docs/runtime-alignment.md` documenting conceptual vs runtime-compatible contracts.
+- GitHub Actions CI workflow to validate schema JSON parsing and relative Markdown links.
 
 ### Changed
 - Clarified Full Journey phase list to match six-phase structure.
@@ -36,6 +37,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Updated docs index to include runtime alignment guide and runtime schemas.
 - Updated session examples to runtime-compatible deliverable format.
 - Clarified method overview/FAQ wording for runtime-compatible integration with `specula-framework`.
+- Fixed case-studies index link for La Saponaria (`case_study_saponaria.md`).
+- Bumped agent protocol label in EN/IT docs from `v0.2` to `v0.3` to reflect current contract constraints.
+- Added `v1.0.1` entry in Method Evolution Log to capture runtime-alignment patch scope.
+- Updated repository version metadata marker to February 2026 in `README.md`.
 
 ## [1.0.0] - 2026-01-25
 
@@ -59,7 +64,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Version History Notes
 
-**Version 1.0.0** represents the first public release of the Specula Method ethical framework and templates. This is derived from v2.3 of the complete method documentation (private repository).
+**Version 1.0.0** represents the first public release of the Specula Method ethical framework and templates. It originates from the private v2.3 baseline and is progressively aligned with the private v2.4.5.x track via explicit mapping and runtime-compatible contracts.
 
 Major versions (2.0.0, 3.0.0) will be released when:
 - Fundamental changes to the ethical framework structure

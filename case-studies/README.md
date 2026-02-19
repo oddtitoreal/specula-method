@@ -22,7 +22,7 @@ This directory contains anonymized case studies from Specula Method applications
 
 ## Current Case Studies
 
-1. **[La Saponaria: Care Intelligence](./la-saponaria-care-intelligence.md)**
+1. **[La Saponaria: Care Intelligence](./case_study_saponaria.md)**
    - Phase 2 (Brand Archeology) deep dive
    - AI ontological design for natural cosmetics
    - Speculative Identity Canvas in practice

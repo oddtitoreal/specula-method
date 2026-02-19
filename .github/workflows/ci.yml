@@ -1,0 +1,69 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Validate JSON schemas
+        run: |
+          python - <<'PY'
+          import glob
+          import json
+
+          files = sorted(glob.glob("schemas/*.json"))
+          if not files:
+              raise SystemExit("No JSON files found in schemas/")
+
+          for path in files:
+              with open(path, "r", encoding="utf-8") as fh:
+                  json.load(fh)
+
+          print(f"Validated {len(files)} schema files")
+          PY
+
+      - name: Check relative Markdown links
+        run: |
+          python - <<'PY'
+          import pathlib
+          import re
+
+          root = pathlib.Path(".").resolve()
+          md_files = list(root.rglob("*.md"))
+          link_re = re.compile(r"\[[^\]]+\]\(([^)]+)\)")
+
+          broken = []
+          for md in md_files:
+              text = md.read_text(encoding="utf-8")
+              for match in link_re.findall(text):
+                  link = match.strip()
+                  if not link or link.startswith("#"):
+                      continue
+                  if "://" in link or link.startswith("mailto:"):
+                      continue
+                  if not (link.startswith("./") or link.startswith("../")):
+                      continue
+
+                  link = link.split("#", 1)[0]
+                  target = (md.parent / link).resolve()
+                  if not target.exists():
+                      broken.append((md.relative_to(root), match))
+
+          if broken:
+              for path, link in broken:
+                  print(f"Broken link in {path}: {link}")
+              raise SystemExit(f"{len(broken)} broken relative links found")
+
+          print(f"Checked {len(md_files)} Markdown files: no broken relative links")
+          PY
