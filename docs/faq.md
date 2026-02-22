@@ -246,7 +246,7 @@ Think of it as: private repo is the professional toolkit, public repo is the ope
 1. Read the [README](../README.md)
 2. Review the [Investment Framework](./investment-framework.md)
 3. Decide if you're ready for this level of commitment
-4. Contact: hello@specula.method
+4. Contact: tito@marcolivi.it
 5. We'll likely start with an Audit
 
 ### I'm a researcher. Can we collaborate?
@@ -265,7 +265,7 @@ Contact us to discuss partnerships.
 
 - Open a [Discussion](https://github.com/oddtitoreal/specula-method/discussions) in Q&A category
 - Check [existing discussions](https://github.com/oddtitoreal/specula-method/discussions) for similar questions
-- For private inquiries: hello@specula.method
+- For private inquiries: tito@marcolivi.it
 
 ---
 

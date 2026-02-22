@@ -185,7 +185,7 @@ Possible but rare. Guardian works best with Full Journey foundation.
 
 For large organizations, multi-brand portfolios, or academic partnerships, we design custom engagement models.
 
-**Contact**: hello@specula.method
+**Contact**: tito@marcolivi.it
 
 ---
 

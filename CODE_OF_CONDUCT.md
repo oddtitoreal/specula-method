@@ -22,7 +22,7 @@ The Specula Method community is committed to providing a welcoming, intellectual
 
 ## Enforcement
 
-Violations can be reported to [conduct@specula.method]. All reports reviewed confidentially. Consequences range from warning to permanent ban depending on severity.
+Violations can be reported to [tito@marcolivi.it]. All reports reviewed confidentially. Consequences range from warning to permanent ban depending on severity.
 
 ## Attribution
 
