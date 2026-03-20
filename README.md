@@ -12,6 +12,32 @@ Specula works precisely on this gap. The starting point is no longer "how do we 
 
 ---
 
+## SPECULA Ecosystem
+
+This repository is one of three related SPECULA repositories:
+
+| Repository | Primary purpose | Primary audience |
+|---|---|---|
+| [`specula-framework`](https://github.com/oddtitoreal/specula-framework) | Canonical docs/specs/schemas/runtime profile | Governance architects, technical contributors |
+| `specula-method` (this repo) | Strategic foresight branding method and facilitation profile | Strategists, designers, innovation teams |
+| [`specula-skill`](https://github.com/oddtitoreal/specula-skill) | Constitution/state-machine implementation skill | AI engineers, governance implementers |
+
+Choose your entry point:
+- If you need method and facilitation guidance: start here.
+- If you need canonical runtime/spec references: use `specula-framework`.
+- If you need practical technical governance implementation: use `specula-skill`.
+
+## Who This Is For
+
+- Brand strategists and design leaders
+- Innovation teams exploring future-oriented identity systems
+- Facilitators running structured speculative workshops
+- Teams translating method outputs into AI governance requirements
+
+See `ALIGNMENT.md` for document ownership and cross-repository boundaries.
+
+---
+
 ## Core Principles
 
 The framework is designed to be:
