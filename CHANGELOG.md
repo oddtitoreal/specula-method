@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added (2026-03-27)
+- `docs/community-co-creation-protocol.md` — Community Co-Creation Protocol (Phase 5 operational specification). Documents: when Phase 5 is mandatory vs. optional, the three-step engagement process (preparation → dialogue → structured synthesis), dissociation typology and escalation protocol, participation tracking requirements, Guardian Loop integration, and clear boundaries of what is NOT co-creation. Closes the "consultazione teatro" gap identified in the integrated analysis.
+
 ### Added
 - Initial public release of ethical framework
 - Operational templates for all six phases
