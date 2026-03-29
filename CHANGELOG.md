@@ -13,7 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Initial public release of ethical framework
 - Operational templates for all six phases
-- Case study: La Saponaria Care Intelligence
+- Pilot project case study: EcoCosmesi (anonymized natural cosmetics brand) that informed method development
 - Contributing guidelines
 - Added CC BY-SA 4.0 license file and attribution requirements.
 - Specula Method Agent protocol (EN/IT) for facilitated sessions.
@@ -45,7 +45,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Updated docs index to include runtime alignment guide and runtime schemas.
 - Updated session examples to runtime-compatible deliverable format.
 - Clarified method overview/FAQ wording for runtime-compatible integration with `specula-framework`.
-- Fixed case-studies index link for La Saponaria (`case_study_saponaria.md`).
+- Updated case-studies index to reference EcoCosmesi pilot project.
 - Bumped agent protocol label in EN/IT docs from `v0.2` to `v0.3` to reflect current contract constraints.
 - Added `v1.0.1` entry in Method Evolution Log to capture runtime-alignment patch scope.
 - Updated repository version metadata marker to February 2026 in `README.md`.
