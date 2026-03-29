@@ -22,7 +22,13 @@ This directory contains anonymized case studies from Specula Method applications
 
 ## Current Case Studies
 
-1. **[La Saponaria: Care Intelligence](./case_study_saponaria.md)**
+1. **[Il posto delle fragole: Living Brand Identity for a Community Space](./case_study_posto_delle_fragole.md)** · [(IT)](./case_study_posto_delle_fragole.it.md)
+   - Full process: co-design → Brand Archeology → Ethical Gate → Narrative Synthesis
+   - Real project: four organizations, one space, five radical values
+   - Key tension resolved: care vs. innovation reframed as care-as-infrastructure
+   - Governance artifacts: [community-space-brand in specula-skill](https://github.com/oddtitoreal/specula-skill/tree/main/examples/community-space-brand)
+
+2. **[La Saponaria: Care Intelligence](./case_study_saponaria.md)**
    - Phase 2 (Brand Archeology) deep dive
    - AI ontological design for natural cosmetics
    - Speculative Identity Canvas in practice

@@ -2,13 +2,23 @@
 
 ## Strategic Foresight Branding
 
-Specula is a strategic design method that uses futures as tools to build living, adaptive brand identities oriented toward preferable scenarios. Born from the intersection of speculative design, brand strategy, and generative artificial intelligence, it helps organizations and teams imagine possible worlds and transform those visions into decisions, prototypes, and operational narratives.
-
 ### The Problem We Address
 
 Traditional branding shows evident structural limitations: generic purposes, campaigns chasing ephemeral trends, identities consumed at the speed of feeds. The problem is primarily imaginative: many brands continue describing the present while their audience is already elsewhere, projected—consciously or not—into desired, feared, ambivalent futures.
 
 Specula works precisely on this gap. The starting point is no longer "how do we position ourselves in today's market?" but "what futures do we want to help make possible?" From there, we work backward, designing identities, products, services, and AI agents that can operate in those futures without losing deep coherence.
+
+Specula is a strategic design method that uses futures as tools to build living, adaptive brand identities oriented toward preferable scenarios. Born from the intersection of speculative design, brand strategy, and generative artificial intelligence, it helps organizations and teams imagine possible worlds and transform those visions into decisions, prototypes, and operational narratives.
+
+> **New here?** Start from the [Quick Start guide](./QUICKSTART.md) · [Avvio rapido (IT)](./QUICKSTART.it.md)
+
+---
+
+## In Practice
+
+*Il posto delle fragole* is a community space in Pesaro built by four partner organizations for young people. Starting from three co-design workshops and no coherent identity, the Specula Method produced a governance system for brand — from radical values to a living visual system to validated governance artifacts.
+
+→ [Read the full case study](./case-studies/case_study_posto_delle_fragole.md) · [Leggi il case study (IT)](./case-studies/case_study_posto_delle_fragole.it.md)
 
 ---
 

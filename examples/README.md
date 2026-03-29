@@ -5,6 +5,7 @@ This directory contains short, canonical session excerpts showing the Specula Me
 ## Files
 - `session_example_01.md` — Phase 1, Step 1: sector + time horizon
 - `session_example_02.md` — Phase 1, Step 2: key uncertainty
+- `session_example_03.md` — Phase 2: Brand Archeology, radical values extraction (real project: Il posto delle fragole)
 
 ## Format conventions
 - Each example includes context, phase, single question, sample answer, and deliverable summary.
