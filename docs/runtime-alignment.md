@@ -11,16 +11,19 @@ This note clarifies how the open `specula-method` assets align with the executab
 
 ## Phase mapping
 
-Canonical sequence used by runtime-compatible integrations:
+Canonical sequence used by runtime-compatible integrations (v1.1):
 
-- `0` Activation
-- `1` Scenario Generation
-- `1.5` Competitive Futures Mapping
-- `2` Brand Archeology
-- `3` Prototyping + Ethical Gate
-- `4` Narrative Synthesis
-- `5` Community Co-Creation
-- `6` Guardian Monitoring
+- `0` Activation & Governance
+- `1` Framing & Ethical DNA
+- `2` Scanning & Sensemaking
+- `2.1` Competitive Futures Mapping
+- `3` Scenario Weaving
+- `4` Confrontation & Discursive Prototyping
+- `5` Ethical + Impact Gate
+- `6` Action Design
+- `6.1` Narrative Synthesis
+- `7` Platforming & Continuous Loop
+- `+1` Guardian Loop (continuous)
 
 ## Schema profile mapping
 

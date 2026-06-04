@@ -5,7 +5,19 @@ All notable changes to the Specula Method open documentation will be documented 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## [1.1.0] - 2026-06-04
+
+### Added
+- `docs/method-overview.md` — Full v1.1 rewrite integrating the v2.4.5.2 evolution track: new Phase 0 (Activation & Governance), Phase 4 (Confrontation & Discursive Prototyping), Phase 7 (Platforming & Continuous Loop); explicit roles (human + AI); anti-fuffa metrics; 4–6 week implementation checklist; phase mapping table v1.0→v1.1.
+- `docs/ethical-framework.md` — Impact Assessment Layer: systematic evaluation of social, environmental, reputational, legal, robustness, and feasibility dimensions before any GO decision. Version bumped to 2.4.5.
+
+### Changed
+- `docs/method-overview.md` — Framing & Ethical DNA (formerly Brand Archeology) moved to Phase 1, before Scanning. Ethical + Impact Gate replaces standalone Ethical Gate. Narrative Synthesis demoted to sub-phase 6.1 of Action Design. Co-creation integrated into Phase 4 + Phase 7.
+- `docs/method-evolution.md` — v1.1 entry added with full rationale and source attribution.
+- `docs/runtime-alignment.md` — Phase mapping updated to v1.1 canonical sequence (7 phases + Guardian Loop).
+
+### Removed
+- Dependency on `specula-framework/docs/08_specula_method_v2_3.md` and `14_specula_method_v2_4_5_2_aligned.md` — those files are retired. `specula-method` is now the single source of truth for the method.
 
 ### Added (2026-03-27)
 - `docs/community-co-creation-protocol.md` — Community Co-Creation Protocol (Phase 5 operational specification). Documents: when Phase 5 is mandatory vs. optional, the three-step engagement process (preparation → dialogue → structured synthesis), dissociation typology and escalation protocol, participation tracking requirements, Guardian Loop integration, and clear boundaries of what is NOT co-creation. Closes the "consultazione teatro" gap identified in the integrated analysis.

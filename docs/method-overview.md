@@ -1,5 +1,5 @@
 # Specula Method Overview
-## Six Phases of Strategic Foresight Branding
+## Strategic Foresight Branding — v1.1
 
 This document provides a high-level overview of the complete Specula Method. For detailed operational guidance, see the templates directory.
 
@@ -13,150 +13,277 @@ From that question, we work backward to design identities, products, services, a
 
 ---
 
-## The Six Phases
+## The Seven Non-Negotiable Principles
 
-### Phase 1: Scenario Generation
-**Duration**: 1-2 weeks  
-**Output**: 4-8 future scenarios combining cultural, technological, economic, regulatory, and environmental drivers
-
-Opening the field through multiple possible and desirable futures. Not predictions, but explorations.
-
-**Key Activities**:
-- Desk research and trend analysis
-- Stakeholder interviews
-- AI-assisted weak signal detection
-- Scenario construction (plausible + preferable)
-
-**Unique Element**: Deliberately generating "uncomfortable" scenarios where the brand doesn't exist, where its values are co-opted, or where its value proposition becomes irrelevant. These negative scenarios clarify what truly matters.
+1. **Plurality before synthesis**: There is no single future.
+2. **Preferable ≠ comfortable**: The preferable is political — it includes conflicts and trade-offs.
+3. **Everyday futures**: Scenarios must touch rituals, micro-decisions, real life.
+4. **Evidence + imagination**: Signals and data feed the process; imagination builds the scenarios.
+5. **Ethics as architecture**: Not a final stamp, but a structure that guides choices throughout.
+6. **Artifacts that generate conversations**: Prototypes and narratives are tools for debate, not deliverables.
+7. **From workshop to platform**: A living brand requires continuity, governance, and rituals.
 
 ---
 
-### Phase 1.5: Competitive Futures Mapping
-**Duration**: 1 week  
-**Output**: Visual map of where competitors are positioning in future scenarios, identification of "white spaces"
+## The Process: 7 Phases + 1 Continuous Loop
 
-Before diving into brand identity, observe what others are doing—or could do.
+### Phase 0: Activation & Governance
+**Duration**: 1–2 days  
+**Output**: Project Charter, Stakeholder Map, AI & Data Checklist
+
+Creating the right container before generating content.
 
 **Key Activities**:
-- Analysis of competitor R&D investments, partnerships, messaging shifts
-- Mapping along dimensions like: innovation radicalness, ethical depth, technological intensity, co-creation openness
-- Identifying saturated territories vs. white spaces
+- Define mandate and objectives (what we want to change)
+- Establish perimeter: product / service / identity / market
+- Map available assets and constraints (time, budget, compliance, data)
+- Set up AI: policy, datasets, access, privacy (GDPR / DPIA if required)
 
-**Goal**: Find futures no one is credibly occupying yet.
+**Deliverables**: Project Charter · Stakeholder Map · AI & Data Checklist
 
 ---
 
-### Phase 2: Brand Archeology
-**Duration**: 2-3 weeks  
-**Output**: Speculative Identity Canvas, DNA document with radical values, accepted biases, and inviolable boundaries
+### Phase 1: Framing & Ethical DNA
+**Duration**: 1–2 weeks  
+**Output**: Ethical DNA Canvas, Decision Principles, Red Lines
 
-Excavating what must remain stable across multiple scenarios.
+Defining what truly matters — and what is non-negotiable — before any scanning or scenario work begins.
+
+**Guiding Questions**:
+- What strategic tension must we traverse?
+- Which values are invariant? Which can evolve?
+- Who are we at risk of excluding? Where is there a power asymmetry?
+- What futures do we want to make "preferable" — and for whom?
 
 **Key Activities**:
 - Workshops with internal teams
-- Analysis of past decisions, conflicts, compromises
-- AI-assisted pattern recognition in existing communications
-- Completion of Speculative Identity Canvas (six dimensions)
+- Mapping radical values (non-negotiable even when costly)
+- Articulating accepted biases and explicit preferences
+- Identifying tensions and trade-offs in advance
 
-**Unique Element**: Defining not just values, but **radical values**—those that remain non-negotiable even when inconvenient or costly. Also defining accepted biases: explicit preferences (e.g., regenerative approaches, mutualistic practices).
+**Deliverables**: Ethical DNA Canvas · Decision Principles (values → operational criteria) · Red Lines & Non-Negotiables
 
-**Output**: The brand's DNA document serves as compass for prototyping and criterion for the Ethical Gate.
-
----
-
-### Phase 3: Future Prototyping & Ethical Gate
-**Duration**: 3-4 weeks  
-**Output**: 3-5 tested prototypes of brand identity in different futures, Registry of Refusals
-
-Testing the brand in different futures: What does it become? What role does it play? What AI agents would embody its will?
-
-**Key Activities**:
-- Speculative design exercises
-- Storytelling and service storyboarding
-- Resilience Protocol: stress-testing against 4 scenarios (recession, regulation, tech disruption, wild card)
-- Ethical Gate review of every prototype
-
-**The Ethical Gate**: Formal checkpoint asking three questions:
-1. Does this violate radical values?
-2. Does it introduce manipulative/extractive/exclusionary practices?
-3. Does it create unacceptable dependencies?
-
-**Registry of Refusals**: Prototypes deliberately rejected are documented, becoming part of the identity—what the brand chose not to become.
+**Note**: The DNA document serves as compass for all subsequent prototyping and criterion for the Ethical + Impact Gate.
 
 ---
 
-### Phase 4: Narrative Synthesis
+### Phase 2: Scanning & Sensemaking
+**Duration**: 1–2 weeks  
+**Output**: Signals Library, Driver & Tension Map, Competitive Futures Map, Implication Deck
+
+Building the raw material: signals, patterns, and forces. Before diving into brand identity, observe what is moving in the world — and what competitors are doing or could do.
+
+**Method (hybrid)**:
+- AI: accelerated signal collection (public / industry sources)
+- Human: situated observation (field notes, interviews, community)
+- Synthesis: clustering, driver mapping, implications
+
+**Phase 2.1 — Competitive Futures Mapping**: Mapping competitor R&D investments, partnerships, and messaging shifts along dimensions such as innovation radicalness, ethical depth, and co-creation openness. Goal: find futures no one is credibly occupying yet.
+
+**Deliverables**: Signals Library · Driver & Tension Map · Competitive Futures Map · Implication Deck (15–30 cards)
+
+---
+
+### Phase 3: Scenario Weaving
+**Duration**: 1–2 weeks  
+**Output**: 3–4 Scenario Cards, Opportunity Map, Early Warning Dashboard
+
+Generating divergent, plausible futures that are readable and usable — not predictions, but explorations.
+
+**Rules**:
+- Scenarios must be divergent from each other but individually plausible
+- Based on explicit drivers and assumptions
+- Written in "daily-life" format: first-person vignettes, present tense
+- Each scenario includes indicators (what to observe today as confirmation or disconfirmation)
+
+**Each scenario includes**:
+- A memorable headline
+- A one-page vignette in present tense
+- Key assumptions
+- Opportunities and risks for the brand
+- Early warning indicators
+
+**Unique Element**: Deliberately generating "uncomfortable" scenarios where the brand doesn't exist, where its values are co-opted, or where its value proposition becomes irrelevant. These negative scenarios clarify what truly matters.
+
+**Deliverables**: Scenario Cards · Opportunity Map · Early Warning Dashboard (minimum 10 signals)
+
+---
+
+### Phase 4: Confrontation & Discursive Prototyping
+**Duration**: 2–3 weeks  
+**Output**: Confrontation Plan, Discursive Prototypes Kit, Field Notes & Insight Log
+
+Making futures collide with people in the right context. Not "presenting scenarios" — making them **live**.
+
+**Activators**:
+- Discursive artifacts (props, mock services, UI fiction)
+- Role-play / embodied futures
+- Exhibits / guided sessions
+- "Specula Board" simulations in internal teams
+
+**Co-creation (with clear governance)**: The community or audience involved can contribute to defining *how* the brand's values translate into practices, languages, rituals, and services. The values (DNA) remain invariant. What is co-designed is their **implementation**.
+
+**Deliverables**: Confrontation Plan · Discursive Prototypes Kit · Field Notes & Insight Log
+
+---
+
+### Phase 5: Ethical + Impact Gate
+**Duration**: 1 week  
+**Output**: Assessment Report, Decision Gate Board, Refusal Register, Assumption Test List
+
+Stress test: bias, risks, impacts, and coherence with the Ethical DNA. This is the same Ethical Gate from the method's foundation, enhanced with a systematic impact assessment layer.
+
+**What is evaluated**:
+- Unintended impacts (social, environmental, reputational)
+- Exclusions / accessibility / inequalities
+- Contradictions between DNA and scenario
+- Robustness (what holds across multiple scenarios?)
+- Feasibility (what can we actually test within 30–90 days?)
+
+**The Three Core Questions** (unchanged):
+1. Does this violate one or more declared radical values?
+2. Does it introduce manipulative, extractive, or exclusionary practices?
+3. Does it create unacceptable technological, social, or environmental dependencies?
+
+**Decision portfolio**:
+- **GO** — we run the experiment
+- **HOLD** — evidence is missing
+- **STOP** — against DNA or unacceptable risk
+
+**Refusal Register**: All STOP decisions are documented with the item refused, reasoning, principle or value invoked, and risk avoided. What gets rejected becomes part of the brand's identity, not a simple mistake.
+
+**Deliverables**: Assessment Report · Decision Gate Board · Refusal Register · Assumption Test List (max 12)
+
+---
+
+### Phase 6: Action Design
 **Duration**: 2 weeks  
-**Output**: Meta-narrative, operational storylines, dynamic guidelines
+**Output**: Experiment Roadmap, Brand System Updates, Narrative Playbook
 
-Transforming the constellation of elements into coherent story systems.
+Transforming insights and scenarios into measurable actions.
+
+**Phase 6.1 — Narrative Synthesis**: Transforming scenarios + DNA into an operational narrative — posture, language, priorities, and limits. Outputs: narrative thesis, key messages and daily-life micro-stories, tone-of-voice rules (do/don't), vocabulary, taboo words.
 
 **Key Activities**:
-- Crafting adaptive narratives that modulate based on which scenario materializes
-- Developing meta-narrative (which future the brand is making more probable)
-- Creating operational storylines for products, services, AI agents
-- Writing dynamic guidelines for maintaining coherence
+- Prioritizing first 30 / 60 / 90-day experiments
+- Updating identity systems (narrative, tone, design system, services)
+- Defining communication plan (what we tell and what we don't)
+- Setting learning, coherence, and impact metrics
 
-**Not**: A "big idea" campaign.  
-**But**: A trama of narratives that live across time horizons while keeping the core recognizable.
+**Deliverables**: Experiment Roadmap · Brand System Updates (principles → operational guidelines) · Narrative Playbook (stories, claims, messages, FAQ)
 
 ---
 
-### Phase 5: Co-creation & Community Governance
-**Duration**: 2-3 weeks  
-**Output**: Validated/refined identity through community dialogue, documented agreements and disagreements
+### Phase 7: Platforming & Continuous Loop
+**Duration**: Ongoing setup, then continuous  
+**Output**: Futures Platform Blueprint, Ritual Calendar, Specula Repository Structure
 
-Exposing the preferable future hypothesis to dialogue with communities.
+Making Specula a continuous organizational capability — not an episodic project.
 
-**Key Activities**:
-- Synchronous workshops and futuring sessions
-- Asynchronous platforms, surveys, conversational agents
-- AI-mediated aggregation of contributions
-- Identifying and amplifying minority voices with important perspectives
+**Components**:
+- **Governance**: who decides what, when, and by which criteria
+- **Rituals**: monthly scanning, quarterly sensemaking, semi-annual review
+- **Repository**: signals / scenarios / decisions / experiments, organized and searchable
+- **AI agent integration**: value guardian, signal harvester, scenario editor, risk & bias spotter
 
-**Boundary**: Community can influence many things, but not the radical values and ethical perimeter established in Phase 2.
-
-**Output**: Identity is no longer just a consultancy artifact, but a negotiated position between brand and community—with disagreements declared, not hidden.
+**Deliverables**: Futures Platform Blueprint · Ritual Calendar · Specula Repository Structure
 
 ---
 
-### Phase 6: Activation & Specula Guardian
-**Duration**: Ongoing  
-**Output**: 12-month roadmap, Guardian monitoring system, potential Re-Speculation cycles
+### +1: Guardian Loop (Continuous)
+**Output**: Guardian Report (monthly or quarterly)
 
-Translating work into concrete action and long-term accompaniment.
+Protecting coherence and values as the world changes. The Guardian is not maintenance — it is a living relationship where brand identity evolves while staying anchored to radical values.
 
-**Key Activities**:
-- Prioritizing first 12 months of projects/experiments
-- Defining metrics to monitor (hybrid framework)
-- Setting up Guardian quarterly reviews
-- Establishing Emergency Re-Speculation triggers
+**What it does**:
+- Monitors indicators and signals
+- Flags coherence drift (gaps from DNA)
+- Updates scenarios and implications
+- Proposes corrective micro-actions
 
-**Specula Guardian**: Not just a retainer, but a pact to monitor the gap between imagined future and emerging reality. If signals diverge significantly for two consecutive quarters, triggers a 4-week accelerated re-speculation cycle.
+**Guardian Report structure**: Period covered · Context changes · Key signals (new / accelerating / fading) · Coherence Drift (with evidence) · Suggested decisions (GO / HOLD / STOP) · Required updates (scenarios / implications / principles / playbook) · Backlog (micro-actions with owner, deadline, metric)
 
-**Emergency Re-Speculation Clause**: Rialigns the brand to new landscape without losing its core.
+**Emergency Re-Speculation Clause**: If signals diverge significantly from the imagined futures for two consecutive quarters, triggers a 4-week accelerated re-speculation cycle.
+
+---
+
+## Roles
+
+### Human Roles
+- **Brand Alchemist** — guides identity synthesis and trade-off decisions
+- **Futures Scout** — signals, fieldwork, pattern recognition
+- **Narrative Architect** — daily-life scenarios, stories, discursive artifacts
+- **Facilitator** — workshops, confrontation sessions, conflict management
+- **Platform Steward** — governance, rituals, repository, continuity
+- **Domain Experts** — legal, product, operations, customer care, etc.
+
+### AI Roles (optional, configurable)
+- **Value Guardian** — checks coherence with Ethical DNA
+- **Signal Harvester** — surfaces signals and clusters
+- **Scenario Editor** — improves clarity and plausibility of scenarios
+- **Risk & Bias Spotter** — flags blind spots and unintended impacts
+
+---
+
+## Metrics
+
+Anti-fuffa indicators — measure what actually matters:
+
+- **Learning Velocity**: assumptions tested per month
+- **Decision Lead Time**: time from insight to decision
+- **Scenario Adoption**: how many functions use scenarios to make decisions
+- **Brand Coherence Index**: coherence between outputs and DNA (quarterly audit)
+- **Ethical Incident Rate**: ethical issues flagged (and corrected) within the cycle
+
+---
+
+## Rapid Implementation: 4–6 Week Checklist
+
+- **Week 1**: Activation + Framing / DNA
+- **Week 2**: Scanning + Sensemaking
+- **Week 3**: Scenario Weaving
+- **Week 4**: Confrontation + Discursive Prototypes
+- **Week 5**: Assessment Gate + Decisions
+- **Week 6**: Action Design + Platform Blueprint
 
 ---
 
 ## Key Differentiators
 
 ### 1. Structural Ethics
-The Ethical Gate isn't optional—it's a formal phase with documentation requirements. Refusal is logged and becomes identity.
+The Ethical + Impact Gate isn't optional — it's a formal phase with documentation requirements. Refusal is logged and becomes identity.
 
 ### 2. AI as Divergence Partner
-AI is configured for high-temperature exploration, generating uncomfortable combinations that humans tend to ignore. Not for efficiency, but for expanded possibility.
+AI is configured for high-temperature exploration, generating uncomfortable combinations that humans tend to ignore. Not for efficiency — for expanded possibility.
 
-### 3. Hybrid Impact Metrics
+### 3. Futures That Live
+Scenarios are not slide decks. Discursive prototyping makes them collide with real people in real contexts — generating genuine reactions, not curated feedback.
+
+### 4. Platform, Not Project
+Platforming and the Guardian Loop transform speculative work from a one-time engagement into a continuous organizational capability.
+
+### 5. Hybrid Impact Metrics
 Measuring process quality, business performance, AND systemic impact. Not one or the other.
-
-### 4. Evolutionary Design
-Guardian isn't maintenance—it's a living relationship where the brand's identity evolves while staying anchored to radical values.
 
 ---
 
-## Specula Method Agent
+## Phase Mapping (v1.0 → v1.1)
 
-For facilitated sessions, Specula provides a dedicated agent protocol that configures an LLM to guide teams through the method: one question at a time, explicit phase tracking, anti-fluff input gathering, and reusable outputs. The protocol supports both conceptual and runtime-compatible JSON contracts. See [Specula Method Agent](../agent/specula-method-agent.md) and the [Runtime Alignment Guide](runtime-alignment.md).
+For continuity with earlier documentation and runtime integrations:
+
+| v1.0 Phase | v1.1 Phase |
+|---|---|
+| (implicit) | 0. Activation & Governance |
+| Phase 2: Brand Archeology | 1. Framing & Ethical DNA |
+| Phase 1: Scenario Generation (research) | 2. Scanning & Sensemaking |
+| Phase 1.5: Competitive Futures Mapping | 2.1 Competitive Futures Map (sub-phase) |
+| Phase 1: Scenario Generation (construction) | 3. Scenario Weaving |
+| *(new)* | 4. Confrontation & Discursive Prototyping |
+| Phase 3: Future Prototyping + Ethical Gate | 5. Ethical + Impact Gate |
+| Phase 4: Narrative Synthesis | 6.1 Narrative Synthesis (sub-phase of Action Design) |
+| Phase 5: Co-creation & Community Governance | Integrated into Phase 4 + Phase 7 |
+| Phase 6: Activation | 6. Action Design |
+| Phase 6: Specula Guardian | 7. Platforming + Guardian Loop |
 
 ---
 
@@ -165,7 +292,7 @@ For facilitated sessions, Specula provides a dedicated agent protocol that confi
 ### For Practitioners
 Start from the [Documentation Index](./00_index.md) for the canonical map.  
 See [Templates Directory](../templates/) for operational tools.  
-See [Ethical Framework](./ethical-framework.md) for detailed governance.
+See [Ethical Framework](./ethical-framework.md) for detailed governance.  
 See [Method Evolution Log](./method-evolution.md) for progressive definition.
 
 ### For Organizations
@@ -178,4 +305,5 @@ Contact us about academic partnerships and validation programs.
 
 ---
 
-*This overview is part of the Specula Method v1.0 open documentation.*
+*Specula Method v1.1 — Updated June 2026*  
+*Incorporates the v2.4.5.2 aligned proposal (Feb 2026) into the canonical open documentation.*

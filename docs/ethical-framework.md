@@ -31,11 +31,11 @@ Over time, this registry becomes part of the brand's identity—a record of cohe
 
 ---
 
-## The Ethical Gate: Operational Protocol
+## The Ethical + Impact Gate: Operational Protocol
 
 ### When It Activates
 
-The Ethical Gate is applied to **every prototype** generated in Phase 3, before it moves forward to narrative synthesis. This includes:
+The Ethical + Impact Gate (Phase 5) is applied after Confrontation & Discursive Prototyping, before Action Design. It covers every direction, prototype, or scenario being carried forward. This includes:
 - Speculative product/service concepts
 - AI agent behaviors and personas
 - Business model innovations
@@ -85,6 +85,26 @@ This addresses second-order effects and systemic implications:
 **Decision Framework:**
 - If NO: Prototype passes the Ethical Gate
 - If YES: Either redesign fundamentally or reject and log in Registry
+
+---
+
+## Impact Assessment Layer (v1.1 addition)
+
+Beyond the three core questions, the gate now includes a systematic impact assessment before any GO decision. Reviewers must evaluate:
+
+| Dimension | Questions |
+|---|---|
+| **Social** | Who might be excluded or harmed? Are there power asymmetries introduced? |
+| **Environmental** | What footprint does this create? Can it be processed or reversed? |
+| **Reputational** | How would this read in public in a negative scenario? |
+| **Legal** | Are there regulatory exposure points (GDPR, AI Act, consumer protection)? |
+| **Robustness** | Does this hold across at least two of the three–four scenarios? |
+| **Feasibility** | Can we run a meaningful experiment within 30–90 days? |
+
+**Decision output**:
+- **GO** — we run the experiment
+- **HOLD** — evidence is missing, revisit after [specific condition]
+- **STOP** — against DNA or unacceptable risk; log in Refusal Register
 
 ---
 
@@ -292,4 +312,4 @@ Refusal is not failure. Refusal is precision.
 
 *This framework is released under Creative Commons BY-SA 4.0. You are free to use, adapt, and share it, as long as you attribute and share improvements.*
 
-*Version 2.3 — Last updated: December 2025*
+*Version 2.4.5 — Last updated: June 2026*

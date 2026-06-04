@@ -65,12 +65,31 @@ This file tracks the evolution of the Specula Method and defines, step by step, 
 
 ---
 
-## Planned increments (placeholders)
+### v1.1 (June 2026)
+**Definition**: Expanded method integrating three new operational "bridges" from the v2.4.5.2 private evolution track: Confrontation & Discursive Prototyping, a strengthened Ethical + Impact Gate, and Platforming as a continuous organizational capability.
 
-### v1.1 (Planned)
-**Focus**: Consolidation of templates and facilitation protocol; clearer success metrics.
+**Core updates**:
+- **Phase reordering**: Framing & Ethical DNA (formerly Brand Archeology) moved to Phase 1, before Scanning. Ethics-first is now structural, not sequential.
+- **New Phase 4 — Confrontation & Discursive Prototyping**: Makes scenarios "live" through discursive artifacts, role-play, and situated exhibits. Community co-creation explicitly scoped to implementation of values, not values themselves.
+- **Ethical Gate → Ethical + Impact Gate (Phase 5)**: Same three core questions, now enriched with a systematic bias/impact assessment layer covering social, environmental, legal, and reputational risks; robustness across scenarios; and 30–90 day feasibility.
+- **New Phase 7 — Platforming**: Converts speculative work from episodic project to continuous organizational capability, with governance, rituals, repository, and integrated AI roles.
+- **Narrative Synthesis**: Demoted from standalone phase to sub-phase 6.1 of Action Design, clarifying its role as synthesis rather than endpoint.
+- **Daily-life scenario format**: First-person vignettes, present tense, with explicit indicators.
+- **Explicit roles**: Brand Alchemist, Futures Scout, Narrative Architect, Facilitator, Platform Steward (human); Value Guardian, Signal Harvester, Scenario Editor, Risk & Bias Spotter (AI).
+- **Anti-fuffa metrics**: Learning Velocity, Decision Lead Time, Scenario Adoption, Brand Coherence Index, Ethical Incident Rate.
+- **4–6 week rapid implementation checklist** added.
+- **Refusal Register** formalized as a structured artifact (JSON schema in specula-framework).
 
-**To define**:
-- Any phase-level changes.
-- New artifacts or retired artifacts.
-- Updates to the Ethical Gate.
+**What this enables**:
+- The method now covers the full arc: from initial framing to continuous platform governance.
+- Scenarios become operational tools, not conceptual deliverables — they are tested against real people and real contexts before decisions are made.
+- Impact assessment is integrated into the ethical gate, not run separately.
+
+**What this does not change**:
+- Core philosophy: futures as tools, not predictions.
+- Radical values as invariant foundation.
+- AI as divergence partner, not oracle or decision-maker.
+- Mandatory human validation for all ethical decisions.
+- Public method remains v1.x; private framework track remains v2.x.
+
+**Source**: Integrates the `14_specula_method_v2_4_5_2_aligned.md` proposal (Feb 2026) from the specula-framework private evolution track. That file is now retired — specula-method is the single source of truth for the method.
