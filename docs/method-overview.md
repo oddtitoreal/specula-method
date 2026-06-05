@@ -60,8 +60,9 @@ Defining what truly matters — and what is non-negotiable — before any scanni
 - Mapping radical values (non-negotiable even when costly)
 - Articulating accepted biases and explicit preferences
 - Identifying tensions and trade-offs in advance
+- **Brief modulation via speculative HMW** — before any project begins, the existing brief is put under stress: implicit assumptions are surfaced, named as tensions, and reframed as speculative How Might We questions that open the generative field rather than optimize within it (see [The Brief Under Stress](../../specula-bos/workshops/brief-sotto-stress.md))
 
-**Deliverables**: Ethical DNA Canvas · Decision Principles (values → operational criteria) · Red Lines & Non-Negotiables
+**Deliverables**: Ethical DNA Canvas · Decision Principles (values → operational criteria) · Red Lines & Non-Negotiables · Modulated Brief
 
 **Note**: The DNA document serves as compass for all subsequent prototyping and criterion for the Ethical + Impact Gate.
 
