@@ -28,11 +28,13 @@ This repository is one of three related SPECULA repositories:
 
 | Repository | Primary purpose | Primary audience |
 |---|---|---|
+| [`specula-bos`](https://github.com/oddtitoreal/specula-bos) | Brand Operating System — the product architecture built with the method | Organizations, practitioners implementing BOS for clients |
 | [`specula-framework`](https://github.com/oddtitoreal/specula-framework) | Canonical docs/specs/schemas/runtime profile | Governance architects, technical contributors |
 | `specula-method` (this repo) | Strategic foresight branding method and facilitation profile | Strategists, designers, innovation teams |
 | [`specula-skill`](https://github.com/oddtitoreal/specula-skill) | Constitution/state-machine implementation skill | AI engineers, governance implementers |
 
 Choose your entry point:
+- If you want to understand what the method builds → use `specula-bos`.
 - If you need method and facilitation guidance: start here.
 - If you need canonical runtime/spec references: use `specula-framework`.
 - If you need practical technical governance implementation: use `specula-skill`.
