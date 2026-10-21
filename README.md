@@ -24,7 +24,7 @@ Specula is a strategic design method that uses futures as tools to build living,
 
 ## SPECULA Ecosystem
 
-This repository is one of three related SPECULA repositories:
+This repository is one of five related SPECULA repositories:
 
 | Repository | Primary purpose | Primary audience |
 |---|---|---|
@@ -32,6 +32,7 @@ This repository is one of three related SPECULA repositories:
 | [`specula-framework`](https://github.com/oddtitoreal/specula-framework) | Canonical docs/specs/schemas/runtime profile | Governance architects, technical contributors |
 | `specula-method` (this repo) | Strategic foresight branding method and facilitation profile | Strategists, designers, innovation teams |
 | [`specula-skill`](https://github.com/oddtitoreal/specula-skill) | Constitution/state-machine implementation skill | AI engineers, governance implementers |
+| [`specula-handbook`](https://github.com/oddtitoreal/specula-handbook) | Operational handbook in Italian ([docs.specula.design](https://docs.specula.design)) | Decision-makers, facilitators, students |
 
 Choose your entry point:
 - If you want to understand what the method builds → use `specula-bos`.
@@ -64,16 +65,21 @@ The framework is designed to be:
 
 ## The Six-Phase Method
 
-### Phase 1 — Scenario Generation
-Opening the field through multiple possible and desirable futures. Uses desk analysis, interviews, explorative sessions, and AI to analyze weak signals and unusual correlations, combining cultural, technological, economic, regulatory, and environmental drivers.
+The canonical sequence is shared with [`specula-bos`](https://github.com/oddtitoreal/specula-bos) and with the runtime schemas of [`specula-framework`](https://github.com/oddtitoreal/specula-framework). Scenarios come before values: the scenarios are the test that produces the Speculative Brand DNA. Full detail in the [Method Overview](./docs/method-overview.md).
 
-### Phase 1.5 — Competitive Futures Mapping
-Analyzing competitors' speculative trajectories: not just present campaigns, but research investments, partnerships, emerging languages, narrative territories they're occupying. The goal is to find the "white spaces"—futures no one is credibly presiding over yet.
+### Phase 0 · Threshold & Framing
+Verifying the three threshold conditions (real mandate, recognized crisis, willingness to subtract) with observable evidence, recorded in a Threshold Sheet. Putting the brief under stress and closing with a written consensus on research question, time window, and working rules.
 
-### Phase 2 — Brand Archeology
-Excavating what must remain stable across multiple scenarios: radical values, worldview, forms of care, inviolable limits. Uses the **Speculative Identity Model**: a canvas working on six intertwined dimensions—radical values, persona/entity, agency, speculative interactions, preferable horizons, alternative tools and metrics.
+### Phase 1 · Scenario Generation
+Opening the field through multiple futures. Weak signals are collected by people across cultural, technological, economic, regulatory, and environmental domains, with AI supporting correlations. Four scenarios are built with an explicit construction rule: one per generic future (growth, collapse, discipline, transformation), closed megatrends shared by all, one scenario built against the brand's strongest declared value, a horizon of 10–15 years.
 
-### Phase 3 — Future Prototyping & Ethical Gate
+### Phase 1.5 · Competitive Futures Mapping
+Analyzing competitors' speculative trajectories: not just present campaigns, but research investments, partnerships, emerging languages, narrative territories they're occupying. The goal is to find the "white spaces": futures no one is credibly presiding over yet, each labelled as trend or countertrend.
+
+### Phase 2 · Brand Archeology & Value Stress Test
+Excavating what holds across the scenarios: radical values, worldview, forms of care, inviolable limits. Traces come from documents as well as stories, and counterexamples are searched for actively. Each candidate value is written in operational form and projected into every scenario; people who did not build the scenarios judge whether it holds. Uses the **Speculative Identity Model**: a canvas working on six intertwined dimensions: radical values, persona/entity, agency, speculative interactions, preferable horizons, alternative tools and metrics.
+
+### Phase 3 · Future Prototyping & Ethical Gate
 Testing the brand in different futures through speculative design exercises, storytelling, service storyboards, narrative and conversational interfaces. Includes the **Resilience Protocol**: four stress-test scenarios (recession, regulatory revolution, technological discontinuity, plus a Wild Card black swan).
 
 The **Ethical Gate** is a formal checkpoint asking:
@@ -81,16 +87,16 @@ The **Ethical Gate** is a formal checkpoint asking:
 - Does it introduce manipulative, extractive, or exclusionary practices?
 - Does it create unacceptable technological, social, or environmental dependencies?
 
-Rejected prototypes are logged in the **Registry of Refusals**—what the brand chose not to become.
+Rejected prototypes are logged in the **Registry of Refusals**: what the brand chose not to become.
 
-### Phase 4 — Narrative Synthesis
-Transforming the constellation of elements into coherent story systems capable of living across multiple time horizons. Produces adaptive narratives that can modulate depending on which scenario materializes, while keeping the core recognizable.
+### Phase 4 · Narrative Synthesis & Strategic Protocol
+Designing the preferable future after the exploration, as a project of its own, and connecting it to the present through backcasting in each scenario. Transforming the constellation of elements into story systems that can live across multiple time horizons. Translating values into decision criteria that carry an expected effect and a review date, recorded in a Decision Log.
 
-### Phase 5 — Co-creation & Community Governance
-Exposing the preferable future hypothesis to dialogue with communities: customers, partners, suppliers, territories, activists. AI acts as a designed mediator to amplify significant divergences without transforming them into destructive polarization.
+### Phase 5 · Co-creation & Community Governance
+Exposing the preferable future to dialogue with communities: customers, partners, suppliers, territories, activists. The Synthesis Circle fixes the values; the community shapes how they are put into practice, and dissent is logged. AI acts as a designed mediator to amplify significant divergences without transforming them into destructive polarization.
 
-### Phase 6 — Activation & Specula Guardian
-Translating work into concrete roadmap: projects, prototypes, releases, experiments, investments. **Specula Guardian** is a long-term accompaniment pact: monitoring the gap between imagined future and emerging reality, with an **Emergency Re-Speculation Clause** triggered when signals significantly diverge for two consecutive quarters.
+### Phase 6 · Activation & Specula Guardian
+Translating work into concrete roadmap: projects, prototypes, releases, experiments, investments. **Specula Guardian** monitors the gap between imagined future and emerging reality and classifies every drift as error, superseded model, or learning. The **Emergency Re-Speculation Clause** is triggered when signals significantly diverge for two consecutive quarters.
 
 ---
 
@@ -203,4 +209,4 @@ See [ATTRIBUTION.md](ATTRIBUTION.md) for full guidelines.
 
 ---
 
-*Version 1.0 — Last updated: February 2026*
+*Version 2.0, October 2026*

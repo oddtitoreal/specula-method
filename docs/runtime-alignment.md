@@ -11,19 +11,28 @@ This note clarifies how the open `specula-method` assets align with the executab
 
 ## Phase mapping
 
-Canonical sequence used by runtime-compatible integrations (v1.1):
+Canonical sequence used by runtime-compatible integrations (v2.0). It matches the `phase` values of the schemas in `specula-framework/schemas/`:
 
-- `0` Activation & Governance
-- `1` Framing & Ethical DNA
-- `2` Scanning & Sensemaking
-- `2.1` Competitive Futures Mapping
-- `3` Scenario Weaving
-- `4` Confrontation & Discursive Prototyping
-- `5` Ethical + Impact Gate
-- `6` Action Design
-- `6.1` Narrative Synthesis
-- `7` Platforming & Continuous Loop
-- `+1` Guardian Loop (continuous)
+- `0` Threshold & Framing (`phase0_activation`)
+- `1` Scenario Generation (`phase1_scenarios`)
+- `1.5` Competitive Futures Mapping (`phase1_5_competitive_map`)
+- `2` Brand Archaeology & Value Stress Test (`phase2_brand_dna`)
+- `3` Future Prototyping & Ethical + Impact Gate (`phase3_prototypes`, `phase3_refusals`)
+- `4` Narrative Synthesis & Strategic Protocol (`phase4_narrative_system`, `preferable_future`, `decision_log`)
+- `5` Co-creation & Community Governance (`phase5_cocreation`)
+- `6` Activation & Specula Guardian (`phase6_guardian`)
+
+The v1.1 sequence (seven phases plus Guardian Loop) is retired. Its mapping to v2.0 is in [Method Overview](./method-overview.md#phase-mapping-v11--v20).
+
+## Fields added in framework 1.3
+
+Framework 1.3 adds optional fields that carry the v2.0 method into runtime artifacts:
+
+- `phase0_activation`: research question, time window, working rules, written consensus, threshold evidence
+- `phase1_scenarios`: generic future archetype, closed megatrends, open variables, value the scenario is built against; `preferred` deprecated as `scenario_type`
+- `phase2_brand_dna`: operational form of each value, stress-test result per scenario with reviewer, documented decisions with source type, counterexamples, fragile values, candidate values that fell
+- `phase6_guardian`: drift classification with the rule applied, composite alerts, escalation owner and deadline
+- New `decision_log` and `preferable_future` artifacts
 
 ## Schema profile mapping
 

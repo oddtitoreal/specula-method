@@ -14,6 +14,32 @@ This file tracks the evolution of the Specula Method and defines, step by step, 
 
 ## Versions
 
+### v2.0 (October 2026)
+**Definition**: A six-phase strategic foresight branding method in which the Speculative Brand DNA is the output of a stress test against divergent futures, with one canonical sequence shared by the method, the Brand Operating System and the runtime schemas.
+
+**Core updates**:
+- **Sequence**: Framing moves to Phase 0; the Ethical DNA moves after Scenario Generation, into Phase 2. With the v1.1 order, the Value Stress Test checked values decided in advance.
+- **Phase 0**: threshold conditions recorded with observable evidence in a Threshold Sheet; written consensus on research question, time window and working rules.
+- **Scenario construction rule**: four generic futures, closed megatrends shared by all scenarios, one scenario built against the strongest declared value, horizon of 10–15 years.
+- **Value Stress Test**: run on the operational form of each value, judged by people who did not build the scenarios, with Causal Layered Analysis as a second method.
+- **Brand Archaeology**: traces from documents as well as stories, strategic interviews, counterexamples, a measure of change.
+- **Preferable future**: designed after the exploration, with backcasting per scenario; `preferred` is no longer a scenario type.
+- **Criteria as hypotheses**: each decision criterion carries an expected effect and a review date; the Decision Log records decisions against them.
+- **Guardian**: every drift is classified as error, superseded model, or learning.
+- **Governance**: who sets the values is declared, with counterweights and speaking rules; the Radar alerts on combinations of indicators.
+- **Time and compression** declared; metrics given calculation procedures.
+
+**What this enables**:
+- A Value Stress Test that can fail.
+- Decision criteria that change with experience while values stay stable.
+- One model to read across repositories, handbook, workshop kit and site.
+
+**What this does not change**:
+- The seven principles, the three core gate questions, the Refusal Register.
+- Confrontation, impact assessment and platforming from v1.1, now inside Phases 3, 5 and 6.
+
+---
+
 ### v1.0.1 (February 2026)
 **Definition**: Patch update of the open documentation profile, keeping the six-phase public structure and improving runtime alignment clarity.
 

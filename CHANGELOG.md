@@ -5,6 +5,21 @@ All notable changes to the Specula Method open documentation will be documented 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.0] - 2026-10-21
+
+### Changed
+- `docs/method-overview.md`: v2.0 rewrite. One canonical six-phase sequence shared with `specula-bos` and the `specula-framework` schemas (`0`, `1`, `1.5`, `2` to `6`). Framing moves to Phase 0; the Ethical DNA moves after Scenario Generation, into Phase 2 (Brand Archaeology & Value Stress Test). Breaking change: the v1.1 seven-phase sequence is retired, with a mapping table v1.1 → v2.0.
+- `docs/method-overview.md`: Phase 0 records threshold conditions with observable evidence and closes with a written consensus on research question, time window and working rules. Scenario construction rule (four generic futures, closed megatrends shared, one scenario against the strongest declared value, horizon 10–15 years). Value Stress Test on the operational form of values, judged by people who did not build the scenarios, with Causal Layered Analysis as second method. Preferable future designed in Phase 4 with backcasting. Decision criteria as hypotheses with expected effect and review date; Decision Log. Drift classification (error, superseded model, learning). Radar alerts on combinations of indicators. New section "Time and Compression". Metrics with calculation procedures. New role: External Reviewer.
+- `README.md`: six-phase section aligned to v2.0, Phase 0 added; ecosystem table lists five repositories, `specula-handbook` included.
+- `docs/runtime-alignment.md`: phase mapping restored to the runtime schema phases; fields added in `specula-framework` 1.3 listed.
+- `docs/ai-governance.md`: scenario governance follows the construction rule; the preferable future is designed in Phase 4; Phase 2 review by people outside the scenario team; drift classification in Phase 6.
+- `docs/ethical-framework.md`: the Ethical + Impact Gate closes Phase 3.
+- `docs/community-co-creation-protocol.md` (1.1): new section on who sets the values, with three counterweights and speaking rules; corrected phase reference for speculative futures (Phase 1).
+- `examples/session_example_01.md`: horizon 2036; `scenario_type` `exploratory` with `archetype` `discipline` (`preferred` is deprecated in `specula-framework` 1.3).
+
+### Added
+- `docs/method-evolution.md`: v2.0 entry.
+
 ## [1.1.0] - 2026-06-04
 
 ### Added

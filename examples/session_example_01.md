@@ -4,21 +4,21 @@
 - Brand: ExampleCo
 - Sector: Circular retail
 - Geography: EU
-- Time horizon: 2035
+- Time horizon: 2036
 
 ## Phase
 Scenario Generation (Phase 1) — Step 1
 
 ## Single question
-What sector are we working in and what time horizon are we using (e.g., 2030/2035)?
+What sector are we working in and what time horizon are we using (e.g., 2036/2040)?
 
 ## Sample answer
-Circular retail in the EU, 2035.
+Circular retail in the EU, 2036.
 
 ## Deliverable (summary)
 - MODE | PHASE: `exploration | 1`
 - Operational summary: Defined sector and time horizon for scenario work.
-- Decisions made: Sector = Circular retail; Geography = EU; Time horizon = 2035.
+- Decisions made: Sector = Circular retail; Geography = EU; Time horizon = 2036.
 - Open decisions: Key uncertainty; dominant axes; weak signals.
 - Next question: Which variable today scares or excites you most?
 
@@ -51,7 +51,8 @@ Circular retail in the EU, 2035.
               "description": "EU circularity standards become mandatory across retail categories"
             }
           ],
-          "scenario_type": "preferred",
+          "scenario_type": "exploratory",
+          "archetype": "discipline",
           "description": "Circular retail scales through compliance-led trust systems.",
           "maieutic_question": "Which trade-off are we willing to accept to preserve trust under strict regulation?",
           "user_response": null
