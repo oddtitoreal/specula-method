@@ -207,7 +207,7 @@ The Speculative Identity Model canvas (see templates) records the result: radica
 
 ## Time and Compression
 
-A Full Journey takes 2–3 months and about 27 hours of workshops, the sum of the phase durations above. A complete futures exercise in a large organization can take up to six months. Specula compresses three things:
+A Full Journey takes 2–3 months, the sum of the phase durations above, with about 27 hours of workshops. A complete futures exercise in a large organization can take up to six months. Specula compresses three things:
 
 - The preliminary meetings, into one Brief Under Stress session plus the Threshold Sheet
 - Signal collection, into structured pre-work and one 3-hour session
