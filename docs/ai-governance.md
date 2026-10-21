@@ -26,16 +26,16 @@ This document outlines how AI is used responsibly within the framework, what lim
 ---
 
 ### 2. Scenario Generation
-**Purpose**: Building plausible and preferable future scenarios by combining multiple drivers.
+**Purpose**: Building divergent future scenarios by combining multiple drivers.
 
 **How it works**:
 - Language and visual models generate scenarios combining cultural, technological, economic, regulatory, and environmental factors
 - High-temperature configurations (more randomness) encourage unexpected combinations
 - Models explicitly prompted to generate "uncomfortable" scenarios where brand assumptions break down
 
-**Human role**: Selecting which scenarios to develop further, ensuring plausibility, choosing preferable directions
+**Human role**: Applying the construction rule (four generic futures, closed megatrends shared by all scenarios, one scenario built against the brand's strongest declared value) and checking internal consistency. The preferable future is designed later, in Phase 4, as a project of its own.
 
-**Example**: Generating a 2030 scenario where water scarcity makes traditional cosmetics manufacturing impossible, forcing brands to reimagine production entirely.
+**Example**: Generating a 2038 scenario where water scarcity makes traditional cosmetics manufacturing impossible, forcing brands to reimagine production entirely.
 
 ---
 
@@ -139,7 +139,7 @@ AI generates coherent scenarios efficiently, but has no intrinsic understanding 
 ### 4. Lacks Value Understanding
 AI doesn't "understand" declared values except through constraints we design into prompts and evaluation criteria.
 
-**Our response**: Values are defined by humans in Phase 2 and encoded as explicit filters. AI operates within those constraints, not independently.
+**Our response**: Values are tested by humans in Phase 2, through the Value Stress Test, and encoded as explicit filters. AI operates within those constraints, not independently.
 
 ---
 
@@ -147,13 +147,13 @@ AI doesn't "understand" declared values except through constraints we design int
 
 ### Phase 1: Scenario Generation
 **AI Role**: High creativity, exploratory  
-**Governance**: Human selection of which scenarios advance, validation of plausibility  
+**Governance**: Humans apply the construction rule; AI proposals that converge on the present are discarded  
 **Temperature**: High (0.8-0.9) to encourage divergence  
-**Review**: All scenarios reviewed for bias and plausibility before client presentation
+**Review**: All scenarios reviewed for bias and internal consistency before client presentation
 
 ### Phase 2: Brand Archeology
 **AI Role**: Pattern recognition in existing materials  
-**Governance**: Humans define radical values, AI surfaces tensions  
+**Governance**: Humans write candidate values in operational form; reviewers who did not build the scenarios judge the Value Stress Test; AI surfaces tensions and incoherences in the corpus  
 **Temperature**: Medium (0.6-0.7)  
 **Review**: Synthesis validated against actual organizational behavior and history
 
@@ -164,8 +164,8 @@ AI doesn't "understand" declared values except through constraints we design int
 **Review**: Every prototype through Ethical Gate before advancing
 
 ### Phase 4: Narrative Synthesis
-**AI Role**: Draft narratives, explore registers and voices  
-**Governance**: Human selection of tone, approval of final narratives  
+**AI Role**: Draft narratives and backcasting paths, explore registers and voices  
+**Governance**: Humans design the preferable future, select tone, approve final narratives and decision criteria  
 **Temperature**: Medium (0.5-0.7)  
 **Review**: Client team approves all narrative directions and final copy
 
@@ -177,7 +177,7 @@ AI doesn't "understand" declared values except through constraints we design int
 
 ### Phase 6: Activation & Guardian
 **AI Role**: Signal monitoring, drift detection  
-**Governance**: Humans interpret signals and decide on response  
+**Governance**: Humans classify every drift (error, superseded model, learning) and decide on response  
 **Temperature**: Low (0.3-0.5) for accurate monitoring  
 **Review**: Quarterly human review of all AI-flagged signals
 

@@ -1,6 +1,6 @@
 # Community Co-Creation Protocol
-**Version**: 1.0
-**Date**: 2026-03-27
+**Version**: 1.1
+**Date**: 2026-10-21
 **Status**: Normative (Phase 5 operational protocol)
 **Repo**: specula-method
 **Allineamento**: specula-framework Phase 5 schema (`phase5_cocreation.schema.json`)
@@ -24,7 +24,7 @@ Questo documento specifica *come* funziona la Phase 5 nel dettaglio:
 La Community Co-Creation è **obbligatoria** quando almeno una delle seguenti condizioni è vera:
 
 1. Il brand ha un'identità pubblica consolidata con una community riconoscibile (oltre 5.000 persone)
-2. I futuri speculativi generati in Phase 3 hanno impatto diretto su stili di vita, valori, o abitudini delle comunità
+2. I futuri speculativi generati in Phase 1 hanno impatto diretto su stili di vita, valori, o abitudini delle comunità
 3. La AI Constitution dichiara "community" come stakeholder primario
 4. Il `moral_entity` definito in Phase 2 è classificato come `caretaker` o `advocate`
 
@@ -153,6 +153,28 @@ La co-creazione Specula richiede che i futuri siano ancora **aperti** quando la 
 
 ---
 
-## 8. Revisione di questo protocollo
+## 8. Chi fissa i valori, chi ne decide l'attuazione
+
+Il metodo assegna due decisioni diverse a due gruppi diversi.
+
+- **I valori** li fissa il Circolo di Sintesi, che li ricava dal Value Stress Test della Phase 2. La decisione richiede mandato, continuità e responsabilità sulle conseguenze.
+- **L'attuazione** la plasma la community: pratiche, linguaggi, rituali e servizi attraverso cui i valori diventano esperienza.
+
+Con questa divisione le persone a cui il brand si rivolge restano fuori dalla decisione sui valori. Il metodo lo dichiara e prevede tre contrappesi:
+
+1. Almeno un membro del Circolo rappresenta i destinatari del brand e ne porta la prospettiva nelle delibere.
+2. La dissociazione valoriale (sezione 4.1) obbliga a riaprire la Phase 2: la community può costringere il Circolo a rimettere alla prova i valori.
+3. Le voci minoritarie restano visibili nel Decision Log permanente (sezione 4.3).
+
+### 8.1 Regole di parola
+
+Nelle organizzazioni piccole chi decide siede spesso nello stesso gruppo che discute, e la sua presenza orienta gli interventi. In ogni sessione di co-creazione e in ogni delibera del Circolo valgono due regole:
+
+- i contributi si raccolgono per iscritto prima della discussione, anche in forma anonima;
+- chi ha il mandato decisionale parla per ultimo.
+
+---
+
+## 9. Revisione di questo protocollo
 
 Questo protocollo viene revisionato dopo ogni implementazione completa di Phase 5, con feedback dal facilitatore e dalla community stessa. L'obiettivo è costruire una libreria di casi che migliorino le domande maieutiche e i criteri di rappresentatività.

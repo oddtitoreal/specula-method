@@ -35,7 +35,7 @@ Over time, this registry becomes part of the brand's identity—a record of cohe
 
 ### When It Activates
 
-The Ethical + Impact Gate (Phase 5) is applied after Confrontation & Discursive Prototyping, before Action Design. It covers every direction, prototype, or scenario being carried forward. This includes:
+The Ethical + Impact Gate closes Phase 3 (Future Prototyping): it is applied after the confrontation of prototypes with people, before Narrative Synthesis & Strategic Protocol (Phase 4). It covers every direction, prototype, or scenario being carried forward. This includes:
 - Speculative product/service concepts
 - AI agent behaviors and personas
 - Business model innovations
