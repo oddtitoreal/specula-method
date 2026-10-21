@@ -45,7 +45,7 @@ The order carries the method's central claim. Scenarios come before values becau
 ---
 
 ### Phase 0: Threshold & Framing
-**Duration**: 1–2 weeks (preliminary meetings plus the 90-minute Brief Under Stress)
+**Duration**: about 1 week (preliminary meetings plus the 90-minute Brief Under Stress)
 **Output**: Threshold Sheet, Modulated Brief, Written Consensus
 
 Building the container and the question before generating content.
@@ -69,12 +69,12 @@ A Threshold Sheet records the evidence for each condition. It is archived for ev
 ---
 
 ### Phase 1: Scenario Generation
-**Duration**: 2–3 weeks
+**Duration**: about 2 weeks
 **Output**: Signals Library, Driver & Tension Map, Four Scenario Cards, Early Warning Dashboard
 
 **1a · Scanning & Sensemaking**
 
-Signals are collected by people. Every participant brings five weak signals from their own domain, and at least one third come from domains outside the brand's sector. Signals are organized on a declared grid, the strategic hexagon, with the research question from Phase 0 at its centre. AI supports clustering and correlation across domains; collection stays human, because models tend to surface the signals that are already frequent.
+Signals are collected by people. Every participant brings five weak signals from their own domain, and at least one third come from domains outside the brand's sector. Signals are organized on a declared grid: the five domains (cultural, technological, regulatory, economic, environmental) arranged around the research question from Phase 0. AI supports clustering and correlation across domains; collection stays human, because models tend to surface the signals that are already frequent.
 
 **1b · Scenario Weaving: the construction rule**
 
@@ -126,7 +126,7 @@ The Speculative Identity Model canvas (see templates) records the result: radica
 ---
 
 ### Phase 3: Future Prototyping & Ethical + Impact Gate
-**Duration**: 2–3 weeks
+**Duration**: about 2 weeks
 **Output**: Discursive Prototypes Kit, Assessment Report, Refusal Register
 
 **Confrontation & discursive prototyping**: making futures collide with people in the right context, through discursive artifacts (props, mock services, UI fiction), role-play and embodied futures, exhibits and guided sessions, "Specula Board" simulations with internal teams. The Resilience Protocol tests each prototype against four stress conditions (see templates).
@@ -152,7 +152,7 @@ The Speculative Identity Model canvas (see templates) records the result: radica
 ---
 
 ### Phase 4: Narrative Synthesis & Strategic Protocol
-**Duration**: 2 weeks
+**Duration**: 1–2 weeks
 **Output**: Preferable Future, Backcasting Map, Narrative Playbook, Strategic Protocol, Decision Log
 
 **The preferable future** is designed after the exploration, as a project of its own. The scenarios describe what could happen; the preferable future states what the brand will work toward, given what it has learned in them. Backcasting connects the two: for each scenario, which steps from today toward the preferable future still hold in that world.
@@ -170,7 +170,7 @@ The Speculative Identity Model canvas (see templates) records the result: radica
 ---
 
 ### Phase 5: Co-creation & Community Governance
-**Duration**: 2–4 weeks
+**Duration**: 1–2 weeks
 **Output**: Brand Radar, Behavioral Matrix, Brand Governance Playbook, Co-creation Record
 
 **Who sets the values, and why**: the Synthesis Circle fixes the values; the community shapes how they are put into practice. The method declares who stays outside that decision and what counterweight exists: at least one member of the Circle represents the people the brand serves, and dissent is logged in the co-creation record (see the [Community Co-Creation Protocol](./community-co-creation-protocol.md)).
@@ -184,7 +184,7 @@ The Speculative Identity Model canvas (see templates) records the result: radica
 ---
 
 ### Phase 6: Activation & Specula Guardian
-**Duration**: setup in 2–4 weeks, then continuous
+**Duration**: setup in about 1 week, then continuous
 **Output**: Activation Roadmap, Specula Agent, Ritual Calendar, Guardian Report
 
 **Activation and platforming**: an activation roadmap; the Specula Agent as operational interface; rituals (monthly scanning, quarterly sensemaking, semi-annual review); a repository of signals, scenarios, decisions and experiments.
@@ -207,7 +207,7 @@ The Speculative Identity Model canvas (see templates) records the result: radica
 
 ## Time and Compression
 
-A Full Journey takes 2–3 months and about 25 hours of workshops. A complete futures exercise in a large organization can take up to six months. Specula compresses three things:
+A Full Journey takes 2–3 months and about 27 hours of workshops, the sum of the phase durations above. A complete futures exercise in a large organization can take up to six months. Specula compresses three things:
 
 - The preliminary meetings, into one Brief Under Stress session plus the Threshold Sheet
 - Signal collection, into structured pre-work and one 3-hour session
